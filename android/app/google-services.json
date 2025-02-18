@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617475886197",
+    "project_id": "deteksi-2fd96",
+    "storage_bucket": "deteksi-2fd96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617475886197:android:25c4fc1ca544614731bc3c",
+        "android_client_info": {
+          "package_name": "com.example.deteksi_lokasi_palsu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4MNWR6_t1NVtII4F2WSBAV1yLegOwq7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
